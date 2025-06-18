@@ -29,7 +29,7 @@ Antes de iniciar, certifique-se de ter instalado:
 ### Passo 1: Clonar o repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/vieira-dih/projeto_final_sem_testes.git
 cd projeto_final_sem_testes
 ```
 
