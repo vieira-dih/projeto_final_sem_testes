@@ -160,4 +160,4 @@ Content-Type: application/json
 - O script `init.sql` deve ser executado para garantir que as tabelas estejam criadas.
 - As rotas seguem o padrão RESTful para facilitar a integração com frontends ou outras aplicações.
 
-## teste 
+
